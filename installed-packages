@@ -1,0 +1,5 @@
+Login package for Nodejs
+Morgan: npm install --save morgan
+
+To extract Request body of an incoming request (e.g POST request), we need to install a package called "body-parser"
+: npm install --save body-parser
